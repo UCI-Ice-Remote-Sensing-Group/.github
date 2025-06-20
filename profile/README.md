@@ -1,5 +1,5 @@
-Rignot Research Group
-University of California, Irvine – School of Physical Sciences
+## Rignot Research Group
+#### University of California, Irvine – School of Physical Sciences
 
 We seek to understand the interaction between ice and climate, and determine how the ice sheets in Antarctica and Greenland will respond to climate change in the coming century and affect global sea level rise.
 
